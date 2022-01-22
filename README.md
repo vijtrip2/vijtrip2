@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**vijtrip2/vijtrip2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I am Currently Working On
+* building [AWS Controllers for K8s](https://aws-controllers-k8s.github.io/community/)
 
-Here are some ideas to get you started:
+#### I am Currently Learning
+* to improve my technical writing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### I’m Looking to Collaborate On
+* building automations to help developer experience
+
+#### Ask Me About
+* Kubernetes
+* ACK
+* Amazon API Gateway
+
+#### Find Me @
+* [Linkedin](https://www.linkedin.com/in/vijay-tripathi-a540b3b8/)
+* [Twitter](https://twitter.com/vijtrip2)
